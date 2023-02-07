@@ -1,0 +1,114 @@
+#Head{
+    display: flex;
+    color:black;
+    background-color:rgb(217 217 217);
+    height: 80px;
+    margin:-1%;
+    position: relative; 
+   
+}
+#Head li{
+    float: left;
+    list-style: none;
+    margin-top: 12%;
+    text-transform: uppercase;
+    margin: 13px 20px;
+    font-size: 20px;
+
+}
+#shoes{
+    margin-left: 3%;
+    background-color: white;
+    margin-bottom: 6%;
+
+}
+#text{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    width:600px;
+    height: 450px;
+    text-align: center;
+    background-color: white;
+}
+.container{
+    display: flex;
+    background-color: rgb(217 217 217);
+    text-align: center;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-top: 4%;
+    margin-bottom: -3%;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10%;
+}
+#paragraph{
+    color: #d9d9d9;
+    font-size: 20px;
+}
+#footer{
+    background-color:#333333;
+    color:white;
+    font-size: 19px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    width: 758px;
+    margin-left:-8px ;
+}
+#btn{
+    margin-top: 5%;
+    color: white;
+    font-weight: 10px;
+    background-color:red;
+    width: 150px;
+    height: 40px;
+    border-color: #88AAEC;
+    border-style: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 60px auto 0;
+    /* background-color:#88AAEC; */
+}
+#Box{
+    display: flex;
+    background-color:rgb(217 217 217);
+    float:left;
+    list-style: none;
+    margin-top: 60px;
+    text-transform: uppercase;
+    /* margin: 13px 20px; */
+    font-size: 20px;
+    width: 758px;
+    margin-left: -8px;
+}
+#co{
+padding: 5%;
+margin-left: 154px;
+}
+#fo{
+    padding: 2%;
+    margin-left: 208px;
+}
+#list1{
+    list-style: none;
+}
+#list2{
+    list-style: none;
+}
+#btn:hover{
+    background-color:rgb(217 217 217);
+}
+#Head li a:hover{
+    color: red;
+}
+#list1 :hover{
+    background-color: aliceblue;
+}
